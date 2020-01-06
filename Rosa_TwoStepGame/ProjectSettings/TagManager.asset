@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  - Fire2
+  - Fire4
+  - Fire3
+  - Fire1
+  - NPC
+  - NPC5
+  - NPC7
+  - NPC3
+  - Ground
+  - NPC6
+  - NPC8
+  - NPC4
+  - done
+  - NPC10
+  - PostProcessing
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GroundLayer
+  - StrengthPickupLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Post Processing (Do NOT Override)
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
