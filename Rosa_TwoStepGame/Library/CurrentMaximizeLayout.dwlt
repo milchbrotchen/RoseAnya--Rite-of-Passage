@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 494}
   m_MaxSize: {x: 18008, y: 14044}
   vertical: 0
-  controlID: 147
+  controlID: 137
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -131,7 +131,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 444}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 148
+  controlID: 138
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -194,9 +194,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 16.0225, y: -7.9450846, z: 10.93127}
+    m_Target: {x: -7.973506, y: 3.951336, z: -11.526378}
     speed: 2
-    m_Value: {x: 16.0225, y: -7.9450846, z: 10.93127}
+    m_Value: {x: -7.973506, y: 3.951336, z: -11.526378}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -225,13 +225,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.06420882, y: 0.9231903, z: -0.17688914, w: 0.33513588}
+    m_Target: {x: 0.014382387, y: 0.20307717, z: 0.00298775, w: -0.9790565}
     speed: 2
-    m_Value: {x: 0.06420854, y: 0.92318624, z: -0.17688836, w: 0.3351344}
+    m_Value: {x: 0.014382332, y: 0.20307639, z: 0.0029877387, w: -0.9790527}
   m_Size:
-    m_Target: 20.893059
+    m_Target: 10.158922
     speed: 2
-    m_Value: 20.893059
+    m_Value: 10.158922
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -306,7 +306,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 494}
   m_MaxSize: {x: 10004, y: 14044}
   vertical: 1
-  controlID: 94
+  controlID: 84
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -364,7 +364,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 8efbffff
+      m_ExpandedIDs: 1e4fffff8efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -452,20 +452,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\yingy\Documents\GitHub\RoseAnya--Rite-of-Passage\Rosa_TwoStepGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7e340000
-    m_LastClickedID: 13438
-    m_ExpandedIDs: 000000007e34000020350000503f000012420000e642000000ca9a3b
+    m_SelectedIDs: 8a380000
+    m_LastClickedID: 14474
+    m_ExpandedIDs: 000000007e340000203500002a390000e63d0000503f00008a400000e642000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -518,9 +518,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 
-    m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 0a370000
+    m_LastClickedInstanceID: 14090
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: fc3b0000a83c00004ebf000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
