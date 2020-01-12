@@ -14,6 +14,10 @@ public class PlayerMovement : MonoBehaviour
     float currentSpeed;
     public float walkSpeed;
 
+    void Awake()
+    {
+        cameraT = Camera.main.transform;
+    }
     void Start()
     {
         canMove = true;
